@@ -1,4 +1,4 @@
-### 📊 Retail_Sales_Insights_Data_Intelligence_Platform
+# 📊 Retail_Sales_Insights_Data_Intelligence_Platform
 # 🚀 Project Overview
 This project demonstrates an end-to-end data platform built using Microsoft Fabric, SQL, and Power BI. It follows the Medallion Architecture (Bronze, Silver, Gold) to transform raw CRM and ERP data into actionable business insights.
 # 🏗️ Architecture

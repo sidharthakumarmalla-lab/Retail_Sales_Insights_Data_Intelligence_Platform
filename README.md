@@ -1,30 +1,30 @@
 # 📊 Retail_Sales_Insights_Data_Intelligence_Platform
-# 🚀 Project Overview
+## 🚀 Project Overview
 This project demonstrates an end-to-end data platform built using Microsoft Fabric, SQL, and Power BI. It follows the Medallion Architecture (Bronze, Silver, Gold) to transform raw CRM and ERP data into actionable business insights.
-# 🏗️ Architecture
+## 🏗️ Architecture
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 Microsoft Fabric (Lakehouse + Warehouse)
 SQL (T-SQL)
 Power BI
 DAX
 Data Modeling (Star Schema)
-# 🔄 Data Pipeline
-# 🥉 Bronze Layer
+## 🔄 Data Pipeline
+### 🥉 Bronze Layer
 Raw data ingested from CRM & ERP systems
-# 🥈 Silver Layer
+### 🥈 Silver Layer
 Data cleaning and transformation using SQL
 Stored procedures used for automation
-# 🥇 Gold Layer
+### 🥇 Gold Layer
 Business-ready views created:
 dim_customer_vw
 dim_product_vw
 fact_sales_vw
-# 📊 Semantic Model
+## 📊 Semantic Model
 Star schema implemented
 Fact & dimension tables connected
 Separate measures table created for KPIs
-# 📈 Dashboard Features
+## 📈 Dashboard Features
 Executive Overview
 Total Sales
 Total Orders
@@ -39,14 +39,14 @@ Customer Insights
 Sales by Country
 Gender-wise Sales
 Customer Growth
-# 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 Executive Overview
 �
 Product Analysis
 �
 Customer Insights
 �
-# 💡 Key Highlights
+## 💡 Key Highlights
 End-to-end data pipeline design
 SQL-based transformations using stored procedures
 Star schema data modeling

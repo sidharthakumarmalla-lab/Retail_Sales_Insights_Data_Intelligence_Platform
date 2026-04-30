@@ -62,7 +62,8 @@ Customer Growth
 
 ## 📸 Dashboard Screenshots
 Executive Overview
-�
+�<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/e6d707d2-c5d8-4afe-9c98-5d4909da5e17" />
+
 Product Analysis
 �
 Customer Insights

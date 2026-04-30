@@ -4,7 +4,16 @@ This project demonstrates an end-to-end data platform built using Microsoft Fabr
 
 
 ## 🏗️ Architecture
+This project implements a modern data pipeline using Medallion Architecture principles:
 
+- *Data Ingestion:* CRM and ERP data loaded into Microsoft Fabric Lakehouse  
+- *Data Processing:* SQL-based transformations using stored procedures  
+- *Data Modeling:* Star schema with fact and dimension tables  
+- *Data Serving:* Optimized Gold layer views for analytics  
+- *Data Visualization:* Power BI dashboards for business insights  
+
+### 🔄 Pipeline Flow:
+Source → Bronze → Silver → Gold → Semantic Model → Dashboard
 
 
 ## ⚙️ Tech Stack

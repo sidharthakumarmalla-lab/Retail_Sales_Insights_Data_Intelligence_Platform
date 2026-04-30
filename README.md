@@ -68,7 +68,8 @@ Customer Growth
 <img width="1303" height="732" alt="image" src="https://github.com/user-attachments/assets/a9d20fb7-fbf0-40a5-a490-27addb8ed9b4" />
 
 ### Customer Insights
-<img width="1300" height="732" alt="image" src="https://github.com/user-attachments/assets/3048cddc-176a-4ab6-b627-44239e47dee0" />
+<img width="1222" height="687" alt="image" src="https://github.com/user-attachments/assets/cb6c59f6-6e4c-4269-a124-1bd776709274" />
+
 
 
 

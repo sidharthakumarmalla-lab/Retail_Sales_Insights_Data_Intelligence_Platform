@@ -52,7 +52,7 @@ This interactive Power BI dashboard is built on top of a Gold-layer semantic mod
 
 ## ⚙️ Technologies Used
 
-- Microsoft Fabric (Lakehouse + Warehouse)
+- Microsoft Fabric (Lakehouse + Warehouse + Pipelines)
 - SQL (Data Transformation)
 - Power BI (Visualization)
 - DAX (Measures & KPIs)

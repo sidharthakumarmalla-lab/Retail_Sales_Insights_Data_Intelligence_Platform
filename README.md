@@ -17,7 +17,7 @@ Source → Bronze → Silver → Gold → Semantic Model → Dashboard
 
 
 ## ⚙️ Tech Stack
-Microsoft Fabric (Lakehouse + Warehouse)
+Microsoft Fabric (Lakehouse + Warehouse + Pipeline)
 SQL (T-SQL)
 Power BI
 DAX

@@ -32,8 +32,8 @@ Data cleaning and transformation using SQL
 Stored procedures used for automation
 ### 🥇 Gold Layer
 Business-ready views created:
-dim_customer_vw
-dim_product_vw
+dim_customer_vw,
+dim_product_vw,
 fact_sales_vw
 
 

@@ -17,47 +17,47 @@ Source → Bronze → Silver → Gold → Semantic Model → Dashboard
 
 
 ## ⚙️ Tech Stack
-Microsoft Fabric (Lakehouse + Warehouse + Pipeline)
-SQL (T-SQL)
-Power BI
-DAX
-Data Modeling (Star Schema)
+* Microsoft Fabric (Lakehouse + Warehouse + Pipeline)
+* SQL (T-SQL)
+* Power BI
+* DAX
+* Data Modeling (Star Schema)
 
 
 ## 🔄 Data Pipeline
 ### 🥉 Bronze Layer
-Raw data ingested from CRM & ERP systems
+* Raw data ingested from CRM & ERP systems
 ### 🥈 Silver Layer
-Data cleaning and transformation using SQL
-Stored procedures used for automation
+* Data cleaning and transformation using SQL
+* Stored procedures used for automation
 ### 🥇 Gold Layer
 Business-ready views created:
-dim_customer_vw,
-dim_product_vw,
-fact_sales_vw
+* dim_customer_vw,
+* dim_product_vw,
+* fact_sales_vw
 
 
 ## 📊 Semantic Model
-Star schema implemented
-Fact & dimension tables connected
-Separate measures table created for KPIs
+* Star schema implemented
+* Fact & dimension tables connected
+* Separate measures table created for KPIs
 
 
 ## 📈 Dashboard Features
-Executive Overview
-Total Sales
-Total Orders
-Total Customers
-Avg Order Value
-Sales Trend
-Product Analysis
-Sales by Category & Subcategory
-Top/Bottom Products
-Profit Analysis
-Customer Insights
-Sales by Country
-Gender-wise Sales
-Customer Growth
+* Executive Overview
+* Total Sales
+* Total Orders
+* Total Customers
+* Avg Order Value
+* Sales Trend
+* Product Analysis
+* Sales by Category & Subcategory
+* Top/Bottom Products
+* Profit Analysis
+* Customer Insights
+* Sales by Country
+* Gender-wise Sales
+* Customer Growth
 
 
 ## 📸 Dashboard Screenshots
@@ -74,7 +74,7 @@ Customer Growth
 
 
 ## 💡 Key Highlights
-End-to-end data pipeline design
-SQL-based transformations using stored procedures
-Star schema data modeling
-Scalable and optimized reporting layer
+* End-to-end data pipeline design
+* SQL-based transformations using stored procedures
+* Star schema data modeling
+* Scalable and optimized reporting layer
